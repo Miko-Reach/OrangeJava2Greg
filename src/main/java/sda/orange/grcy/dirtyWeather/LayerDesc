@@ -1,0 +1,23 @@
+Warstwy aplikacji we wzorcu MVC
+
+-Warstwa "użytkownika - interakcji z użytkownikiem" - V czyli "View"
+-warstwa logiki aplikacji i kontroli nad tym co użytkownik przesłał i co ma dostać w zamina - C czyli "Controller"
+
+Warstwa danych czyli same dane, ich przechowywanie, dostęp do nich i metody modyfikacji
+
+Warstwa V to jakieś formularze HTML(strony WWW), albo. np aplikacja desktopowa
+
+
+Warstwa C to "odbiorca" żądań frontendu i miejsce gdzie następuje działanie aplikacji
+logika typu policzenie kwot przy przelewie,
+a także decyzja jakie dane przedstawić warstwie V jako zwrotkę na jej żądanie.
+
+
+Warstwa M to zarządanie danymi - tu będzie JDBC albo HIBERNATE jako pośrednicy między miejscem trzymania danych
+a aplikacją, tu będzie zbiór klas pozwalających na odwzorowanie tabel bazodanowych na obiekty tu bedą zapytania
+do bazy, tu będą wstawienia, modyfikacje i usuwanie danych , w tej warstwie jest coś takiego jak DAO
+
+
+
+DAO - Data Acces Object, czyli obiekt(struktura) pośredniczący w dostępie do danych
+

@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b11c3a5f-1384-4b62-9c3b-bd5c03c24eb2" name="Changes" comment="" />
+    <list default="true" id="b11c3a5f-1384-4b62-9c3b-bd5c03c24eb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/dirtyWeather/LayerDesc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/controller/GarageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/model/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/model/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/view/Car.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc1approach/view/Garage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc2approach/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc2approach/car/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc2approach/car/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc2approach/car/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc2approach/garage/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sda/orange/grcy/mvc2approach/garage/GarageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,13 +49,16 @@
     </option>
   </component>
   <component name="ProjectId" id="2NB5WDoid37kex3fmFrX61cBxbW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager">
